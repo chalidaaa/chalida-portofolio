@@ -1,0 +1,14 @@
+[build]
+  # Perintah build
+  command = "npm run build"
+  # Folder yang akan diterbitkan
+  publish = "dist"
+
+[dev]
+  # Port default untuk local development di Netlify Dev
+  port = 3000
+  framework = "vite"
+
+[functions]
+  # Folder untuk Netlify Functions, jika Anda menggunakannya
+  directory = "netlify/functions"
