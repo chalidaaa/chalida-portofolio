@@ -130,7 +130,7 @@ export default function About() {
             <div className="w-full md:w-2/3 text-left">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Achievements & Impact</h3>
               <p className="text-lg text-gray-600">
-                Over the years, I’ve had the privilege of contributing to a variety of successful projects that made a significant difference in how users interact with technology. From increasing user engagement to improving conversion rates, my designs have delivered measurable results. I take pride in designing solutions that are not only visually appealing but also highly functional, ensuring that users have the best possible experience.
+              I'm proud to have received the "Siswa Ter-Narsis" award, well on the other side it's a recognition of my ability to inspire confidence in others while spreading kindness. This journey has taught me how to embrace self-assurance while always valuing the importance of kindness. I believe in leading by example, showing that confidence, when paired with compassion, can create a positive impact.
               </p>
             </div>
           </motion.div>

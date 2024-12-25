@@ -12,7 +12,7 @@ export default function Header() {
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}>
-          CHALIIDA
+          Chalida's Portfolio
         </motion.h1>
         <ul className="flex space-x-4">
           {['Home', 'About', 'Portfolio', 'Contact'].map((item, index) => (
